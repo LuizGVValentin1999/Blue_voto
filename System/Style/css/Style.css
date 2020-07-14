@@ -1,0 +1,10 @@
+.select-grafico {
+    margin: 4px;
+}
+
+#erropag {
+    width: 500px;
+    height: 300px;
+    float: right;
+    background-image: url("https://media.giphy.com/media/14uQ3cOFteDaU/giphy.gif");
+}
